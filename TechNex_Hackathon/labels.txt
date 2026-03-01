@@ -1,0 +1,4 @@
+0 Background
+1 Recyclable
+2 Biodegradable
+3 Hazardous
